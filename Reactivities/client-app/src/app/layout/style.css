@@ -1,0 +1,9 @@
+body {
+  background-color: #eaeaea !important;
+  
+}
+
+.ui.inverted.top.fixed.menu{
+  background-color:rgb(48, 59, 163) !important;
+  margin-bottom: 50px
+}
